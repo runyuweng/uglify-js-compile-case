@@ -1,0 +1,24 @@
+{
+  "name": "uglify-js-compile-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runyuweng/uglify-js-compile-case.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runyuweng/uglify-js-compile-case/issues"
+  },
+  "homepage": "https://github.com/runyuweng/uglify-js-compile-case#readme",
+  "dependencies": {
+    "prettier": "^1.18.2",
+    "uglify-js": "^3.6.5"
+  }
+}
